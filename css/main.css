@@ -20,6 +20,8 @@ font-weight: bold;
  header .navbar-default{
    border-color:transparent;
    background: #DA2C38;
+   background-attachment: fixed;
+}
 
 
  }
