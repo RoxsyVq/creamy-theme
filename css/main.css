@@ -1,4 +1,4 @@
-body h1,h4, .contacto h4{
+body h1, h3, .contacto h4{
 font-family: 'Merriweathe' ;
 font-weight: bold;
 
@@ -21,12 +21,15 @@ font-weight: bold;
    border-color:transparent;
    background: #DA2C38;
 
+
  }
  header .navbar-default .navbar-header a{
  color: #f4efba;
  text-decoration: none;
  font-weight: bold;
-font-size: 30px
+font-size: 30px;
+font-family: 'Merriweathe' ;
+
  }
 
 header .navbar-default .navbar-nav li a{
@@ -69,8 +72,9 @@ header .navbar .navbar-header button, .navbar-default .navbar-header button:focu
   color:white;
   margin-top: 0;
 }
-.hero h1{
+.hero .texto-centro h1{
   font-size: 40px;
+  font-family: 'Merriweathe' ;
 }
 
 .texto-centro{
@@ -88,7 +92,7 @@ header .navbar .navbar-header button, .navbar-default .navbar-header button:focu
     padding:  3% 3%;
     color:  #da2c38;
 }
-.conten h4{
+.conten h3{
   text-align: center;
 }
 /*--------------------------abaut*/
