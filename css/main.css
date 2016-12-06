@@ -46,7 +46,7 @@ header .navbar-default .navbar-header button {
    	background: #da2c38;
  }
 
-header .navbar .navbar-header button, .navbar-default .navbar-header button:focus{
+header .navbar .navbar-header button:hover, .navbar-default .navbar-header button:focus{
 
  	background: #da2c38;
 
@@ -82,9 +82,9 @@ header .navbar .navbar-header button, .navbar-default .navbar-header button:focu
   text-align: center;
 }
 /*----------------------------contenido*/
-.contenido h3{
+.contenido{
     text-align: center;
-    margin: 5% 1%;
+
 
 }
 .conten{
@@ -127,6 +127,10 @@ footer span{
 }
 footer p{
   margin: 20px 0;
+}
+
+.contacto1{
+  background: rgba(255,255,255,0.4);
 }
 /*---------------------fin*/
 @media screen and (max-width:700px)  {
