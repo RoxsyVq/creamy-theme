@@ -144,4 +144,8 @@ footer p{
   }
   footer{text-align: center;
   }
+  .navbar-default{
+    z-index: 1;
+
+  }
 }
