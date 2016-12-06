@@ -1,0 +1,137 @@
+body h1,h4, .contacto h4{
+font-family: 'Merriweathe' ;
+font-weight: bold;
+
+}
+/*------------------------------header*/
+ header .navbar{
+   margin-bottom:0;
+   padding-left: 0;
+   padding-right:0;
+
+
+ }
+ header {
+   border-color:transparent;
+   background: #da2c38;
+   color: #f4efba;
+
+ }
+ header .navbar-default{
+   border-color:transparent;
+   background: #DA2C38;
+
+ }
+ header .navbar-default .navbar-header a{
+ color: #f4efba;
+ text-decoration: none;
+ font-weight: bold;
+font-size: 30px
+ }
+
+header .navbar-default .navbar-nav li a{
+color: #f4efba;
+font-weight: bold;
+
+}
+header .navbar-default .navbar-header button {
+
+ 	background: #da2c38;
+
+ }
+ .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{
+   	background: #da2c38;
+ }
+
+header .navbar .navbar-header button, .navbar-default .navbar-header button:focus{
+
+ 	background: #da2c38;
+
+ }
+ header .navbar-default .navbar-nav li a:hover{
+
+  	background:rgba(255,255,255,0.1) ;
+    border-bottom: 2px solid rgba(255,255,255,0.4);
+
+  }
+
+/*-------------------------hero*/
+.fondo{
+
+	background: rgba(0,0,0,0.6);
+  padding:  10% 0;
+}
+
+.hero{
+  background:  url(../img/creamy.jpg) no-repeat right;
+  background-size:180%;
+  position:relative;
+  color:white;
+  margin-top: 0;
+}
+.hero h1{
+  font-size: 40px;
+}
+
+.texto-centro{
+  margin: 7% 0;
+  text-align: center;
+}
+/*----------------------------contenido*/
+.contenido h3{
+    text-align: center;
+    margin: 5% 1%;
+
+}
+.conten{
+    background: #f4efba;
+    padding:  3% 3%;
+    color:  #da2c38;
+}
+.conten h4{
+  text-align: center;
+}
+/*--------------------------abaut*/
+.abaut{
+background: #da2c38;
+  padding:  3% 5%;
+  color: #f4efba;
+  text-align: center;
+
+}
+/*---------------------------contacto*/
+.contacto{
+
+  text-align: center;
+  color:  #da2c38;
+  background: #f4efba;
+  padding: 3% 3%;
+}
+.contacto i{
+  font-size: 500%;
+
+}
+
+
+/*-------------------------footer*/
+footer{
+  background: #da2c38;
+  color: #f4efba;
+}
+footer span{
+  color: yellow;
+}
+footer p{
+  margin: 20px 0;
+}
+/*---------------------fin*/
+@media screen and (max-width:700px)  {
+  .hero{
+    background-size:cover;
+  }
+  .hero .texto-centro{
+    margin: 20%;
+  }
+  footer{text-align: center;
+  }
+}

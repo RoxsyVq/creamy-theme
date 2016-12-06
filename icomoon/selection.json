@@ -1,0 +1,115 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M880.128 212.736c-85.606-78.541-224.41-78.541-310.016 0l-58.112 53.35-58.163-53.35c-85.606-78.541-224.358-78.541-309.965 0-96.307 88.422-96.307 231.424 0 319.795l368.128 337.869 368.128-337.869c96.256-88.371 96.256-231.424 0-319.795z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "heart"
+        ],
+        "grid": 20
+      },
+      "attrs": [],
+      "properties": {
+        "id": 182,
+        "order": 14,
+        "prevSize": 20,
+        "code": 59649,
+        "name": "heart"
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 181
+    },
+    {
+      "icon": {
+        "paths": [
+          "M921.6 51.2h-819.2c-56.371 0-102.4 46.080-102.4 102.4v563.2c0 56.32 45.158 111.514 100.403 122.522l223.846 44.8c0 0-192.666 88.678-68.25 88.678h512c124.416 0-68.301-88.678-68.301-88.678l223.898-44.8c55.194-11.008 100.403-66.202 100.403-122.522v-563.2c0-56.32-46.080-102.4-102.4-102.4zM921.6 716.8h-819.2v-563.2h819.2v563.2z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "tv"
+        ],
+        "grid": 20
+      },
+      "attrs": [],
+      "properties": {
+        "id": 307,
+        "order": 12,
+        "prevSize": 20,
+        "code": 59648,
+        "name": "tv"
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 306
+    },
+    {
+      "icon": {
+        "width": 1280,
+        "paths": [
+          "M1232 0h-384c-26.4 0-63.274 15.274-81.942 33.942l-476.116 476.116c-18.668 18.668-18.668 49.214 0 67.882l412.118 412.118c18.668 18.668 49.214 18.668 67.882 0l476.118-476.118c18.666-18.666 33.94-55.54 33.94-81.94v-384c0-26.4-21.6-48-48-48zM992 384c-53.020 0-96-42.98-96-96s42.98-96 96-96 96 42.98 96 96-42.98 96-96 96z",
+          "M128 544l544-544h-80c-26.4 0-63.274 15.274-81.942 33.942l-476.116 476.116c-18.668 18.668-18.668 49.214 0 67.882l412.118 412.118c18.668 18.668 49.214 18.668 67.882 0l30.058-30.058-416-416z"
+        ],
+        "tags": [
+          "price-tags"
+        ],
+        "defaultCode": 59702,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "price-tags",
+        "name": "tags",
+        "order": 13,
+        "id": 55,
+        "prevSize": 32,
+        "code": 59702
+      },
+      "setIdx": 1,
+      "setId": 1,
+      "iconIdx": 54
+    }
+  ],
+  "height": 1024,
+  "metadata": {
+    "name": "icomoon"
+  },
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon"
+    },
+    "historySize": 100,
+    "showCodes": true,
+    "gridSize": 16
+  }
+}
